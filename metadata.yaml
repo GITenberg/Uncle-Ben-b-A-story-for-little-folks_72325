@@ -1,5 +1,8 @@
 _repo: Uncle-Ben-b-A-story-for-little-folks_72325
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72325-h/images/cover.jpg
 creator:
   author:
     agent_name: Optic, Oliver
@@ -14,6 +17,8 @@ creator:
     - https://en.wikipedia.org/wiki/William_Taylor_Adams
     - http://www.gutenberg.org/ebooks/author/5655
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72325#Uncle-Ben-b-A-story-for-little-folks
 gutenberg_issued: '2023-12-05'
 identifiers:
   gutenberg: '72325'
